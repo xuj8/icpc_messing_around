@@ -1,0 +1,107 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+*.ko
+*.symvers
+*.order
+
+# Dependency directories
+.deps/
+.objs/
+
+# Build directories
+**/cmake-build-*/
+**/build/
+**/Build/
+**/bld/
+**/bin/
+**/out/
+
+# External tool folders
+.vscode/
+.idea/
+*.swp
+
+# Editor backup files
+*~
+.#*
+.*.swp
+.*.swo
+
+# Ignore CMake settings
+CMakeLists.txt.user
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+
+# Ignore Makefile builds
+Makefile
+makefile
+
+# Ignore Markdown navigation
+mkdocs.yml
+/site/
+
+# Eclipse project files
+.metadata
+.recommenders
+
+# Mac OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
